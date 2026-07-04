@@ -1,8 +1,8 @@
-# 🛒 Walmart Sales Data Analysis Project  
+# 🛒 Predictive Sales Data Intelligence Project  
 <br>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Walmart+Sales+Data+Analysis+Project;End-to-End+Python+%2B+SQL+ETL+Pipeline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Predictive+Sales+Data+Intelligence+Project;End-to-End+Python+%2B+SQL+ETL+Pipeline"/>
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@ This project replicates an enterprise retail data environment. Starting with an 
 <br>  
 
 ## Project Data Architecture Layout  
-Refer to `walmart_project-piplelines.jpg` below for the full visual data flow diagram mapping out this exact sequence:  
+Refer to `Predictive Sales Data Intelligence-piplelines.jpg` below for the full visual data flow diagram mapping out this exact sequence:  
 <br>
-![Project_Pipeline](Resources/walmart_project-piplelines.png)
+![Project_Pipeline](Resources/Predictive Sales Data Intelligence-piplelines.png)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
@@ -40,10 +40,10 @@ graph TB
 
 # 📂 Repository File Blueprint
 ``` 
-├── walmart_project-piplelines.jpg  # Core architectural layout & visualization pipeline
+├── Predictive Sales Data Intelligence-piplelines.jpg  # Core architectural layout & visualization pipeline
 ├── project.ipynb                    # Ingestion, cleansing, data-type casting & processing script
 ├── SQL_File.sql                     # Advanced business analytics analytical query engine
-├── Walmart Business Problems.pdf    # Business objective problem statement matrix
+├── Predictive Sales Data Intelligence Business Problems.pdf    # Business objective problem statement matrix
 └── walmart_clean_data.csv          # Sanitized database production-ready export distribution
 ```
 <br>  
@@ -84,7 +84,7 @@ print(f"Successfully inserted {len(df)} rows into PostgreSQL!")
 ```
 <br>  
 
-*The business problems to be solved via SQL can be found here [Business Problems](https://github.com/RajayJain/Walmart_Sales_Data_Analysis/blob/fee692095adc9ef4ba9f51262057bb8c343d0cb5/Resources/Walmart%20Business%20Problems.pdf)* and solutions here [Solutions](Resources/SQL_File.sql).
+*The business problems to be solved via SQL can be found here [Business Problems](https://github.com/RajayJain/Predictive Sales Data Intelligence/blob/fee692095adc9ef4ba9f51262057bb8c343d0cb5/Resources/Walmart%20Business%20Problems.pdf)* and solutions here [Solutions](Resources/SQL_File.sql).
 <br>  
 
 # 💼 Core Business Querying Challenges Resolved  
@@ -105,7 +105,7 @@ The repository houses advanced analytical workflows resolving 9 strategic busine
 # 🏃 Setup & Verification Sequence  
 1. Clone this retail pipeline repo:🏃 Setup & Verification Sequence
 ``` bash
-git clone https://github.com/yourusername/walmart-sales-data-analysis.git
+git clone https://github.com/yourusername/Predictive Sales Data Intelligence.git
 ```
 2. Clone this retail pipeline repo:
 ``` bash
