@@ -24,7 +24,7 @@ This project replicates an enterprise retail data environment. Starting with an 
 ## Project Data Architecture Layout  
 Refer to `Predictive Sales Data Intelligence-piplelines.jpg` below for the full visual data flow diagram mapping out this exact sequence:  
 <br>
-![Project_Pipeline](Resources/Predictive Sales Data Intelligence-piplelines.png)
+![Project_Pipeline](https://github.com/RajayJain/Predictive-Sales-Data-Intelligence/blob/badd8d43bd7877b8d1eef766839155e848698fa0/Resources/Predictive%20Sales%20Data%20Intelligence-piplelines.png)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
@@ -84,7 +84,7 @@ print(f"Successfully inserted {len(df)} rows into PostgreSQL!")
 ```
 <br>  
 
-*The business problems to be solved via SQL can be found here [Business Problems](https://github.com/RajayJain/Predictive Sales Data Intelligence/blob/fee692095adc9ef4ba9f51262057bb8c343d0cb5/Resources/Walmart%20Business%20Problems.pdf)* and solutions here [Solutions](Resources/SQL_File.sql).
+*The business problems to be solved via SQL can be found here [Business Problems](https://github.com/RajayJain/Predictive-Sales-Data-Intelligence/blob/badd8d43bd7877b8d1eef766839155e848698fa0/Resources/Predictive%20Sales%20Data%20Intelligence.pdf)* and solutions here [Solutions](Resources/SQL_File.sql).
 <br>  
 
 # 💼 Core Business Querying Challenges Resolved  
